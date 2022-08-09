@@ -1,0 +1,6 @@
+{
+  "extends": ["github>whitesource/merge-confidence:beta"],
+  "vulnerabilityAlerts": {
+    "enabled": true
+  },
+}
